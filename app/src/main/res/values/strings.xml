@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zad1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="question_one">Czy cyfra 5 jest liczbą pierwszą?</string>
+    <string name="question_two">Czy wszystkie kąty w kwadracie są proste?</string>
+    <string name="question_three">Czy Henryk Sienkiewicz otrzymał nagrodę Nobla?</string>
+    <string name="question_four">Czy pęd jest prędkością wektorową?</string>
+    <string name="question_five">Czy zoologia to nauka o leczeniu zwierząt?</string>
+    <string name="correct_answer">To prawidłowa odpowiedź</string>
+    <string name="incorrect_answer">To nieprawidłowa odpowiedź</string>
+    <string name="button_answer">Pokaż odpowiedź</string>
+    <string name="see_answer">Czy chcesz zobaczyć odpowiedź?</string>
+    <string name="button_hint">Podpowiedź</string>
+    <string name="answer_was_shown">Wyświetlono podpowiedź</string>
+</resources>
